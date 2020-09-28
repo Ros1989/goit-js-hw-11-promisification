@@ -1,4 +1,4 @@
-import './css/styles.css';
-import './scss/base.scss';
-
-import './js/script.js';
+import './styles.css';
+import './js/task-01';
+import './js/task-02';
+import './js/task-03';
